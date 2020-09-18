@@ -1,0 +1,15 @@
+{
+  "authors": [
+    {
+      "id": 1,
+      "name": "Fabio Santos Dias",
+      "gender": "M",
+      "date_of_birth": "14/10/1986",
+      "mail": "fabiowebmain@gmail.com",
+      "country": "Brazil",
+      "cpf": "02910723569"
+    }
+  ],
+  "work": [
+  ]
+}
